@@ -8,7 +8,7 @@ pales, pale - > true
 pale, bale - > true
 pale, bake - > false"
 
-By Jekainden
+By https://github.com/J-Nying
 */
 
 import java.io.*;
