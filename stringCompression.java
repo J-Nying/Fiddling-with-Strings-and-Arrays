@@ -10,7 +10,7 @@ instead of a2blc5a3 like the question requires.
 
 I have another program called compressString.java that is correct.
 
-By Jekainden
+By https://github.com/J-Nying
 */
 
 import java.io.*;
