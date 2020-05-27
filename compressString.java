@@ -4,7 +4,7 @@ of repeated characters. For example, the string aabcccccaaa would become a2blc5a
 'compressed' string would not become smaller than the original string, your method should return
 the original string. You can assume the string has only uppercase and lowercase letters (a - z)."
 
-By Jekainden
+By https://github.com/J-Nying
 */
 
 import java.io.*;
