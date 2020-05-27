@@ -3,7 +3,7 @@
 cannot use additional data structures?"
 
 A simple program to check if a string has all unique characters.
-By Jekainden
+By https://github.com/J-Nying
 */
 
 import java.io.*;
