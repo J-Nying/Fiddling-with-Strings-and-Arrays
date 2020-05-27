@@ -3,7 +3,7 @@
 other."
 
 A simple program to check if one string is a permutation of the other.
-By Jekainden
+By https://github.com/J-Nying
 */
 
 
