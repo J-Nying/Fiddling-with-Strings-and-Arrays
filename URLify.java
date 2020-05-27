@@ -8,7 +8,7 @@ Input: 'Mr 3ohn Smith'
 Output: 'Mr%203ohn%20Smith' "
 
 A simple Java program that adds '%20' in each space in a string.
-By Jekainden
+By https://github.com/J-Nying
 */
 
 import java.io.*;
